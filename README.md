@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Wealth Engine is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://wealthengine.com/
+Wealth Engine provides a data platform that aggregates and analyzes wealth-related information to help organizations identify, understand, and engage high‑net‑worth individuals and households. Leveraging machine learning on billions of data points, the service offers real‑time net‑worth estimates, income, asset holdings, philanthropic capacity, and other wealth attributes. This enables nonprofits, financial services, and marketers to target prospects more effectively, personalize outreach, and improve fundraising or sales strategies.
+
+**Areas:** Company · Data · Wealth · Analytics · Marketing · Nonprofit
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://wealthengine.com/)
+- [Documentation](https://wealthengine.com/developer-api)
+- [Getting started](https://wealthengine.com/developer-api)
+- [API reference](https://wealthengine.com/developer-api)
+- [Pricing](https://wealthengine.com/request-a-demo)
+- [Support](https://wealthengine.com/contact)
+- [Blog](https://wealthengine.com/articles)
+- [Terms of service](https://altrata.com/terms-of-use)
+- [Privacy policy](https://altrata.com/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/wealthengine/](https://apis.io/providers/wealthengine/).
